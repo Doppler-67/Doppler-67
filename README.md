@@ -12,7 +12,7 @@
 
 
          
-<h2> 🔧 &nbsp;Languages & Tools</h2>
+<h2> 🛠 &nbsp;Languages & Tools</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" />         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" /> 

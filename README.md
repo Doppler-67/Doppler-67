@@ -1,9 +1,5 @@
 ### 👋 Hi there, i’m Egor. 
 
-- 🎓 I’m currenlty learning at Yandex.Practicum as a data scientist.
-
-- 🔎 I’m looking for a job.
-
 - ☎️ Contacts: 
 
   - **gmail:** **egor.mulyukov2142@gmail.com**
@@ -21,6 +17,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Sklearn" alt="scikit_learn" width="50" height="50"/>
 <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/vqzfmqnwwgfzcoc5r9dr" title="Xgboost" alt="xgboost" width="50" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" title="Git" alt="git" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png" title="Keras" alt="keras" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" title="Pytorch" width="50" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" title="Seaborn" alt="seaborn" width="50" height="50"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Matplotlib" alt="matplotlib" width="50" height="50"/>

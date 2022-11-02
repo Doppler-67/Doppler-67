@@ -1,6 +1,6 @@
-### 👋 Hi there, i’m Egor. 
 
-- ☎️ Contacts: 
+
+### ☎️ Contacts: 
 
   - **gmail:** **egor.mulyukov2142@gmail.com**
   - **telegram:** [@Doppler67](https://t.me/Doppler67/)

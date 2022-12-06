@@ -1,4 +1,8 @@
 
+### 📃 Resume:
+ 
+ <a href="https://resume.io/r/CKTDsg90Q" rel="nofollow">
+&nbsp &nbsp &nbsp &nbsp  <img src="https://www.downloadclipart.net/large/46730-resumepng-clipart.png" title='Resume link' width="50" height="25" style="max-width: 100%;">
 
 ### ☎️ Contacts: 
 
